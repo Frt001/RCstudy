@@ -1,0 +1,3 @@
+C:/Users/20673/Desktop/rc/code/frt 8.10 homework/build/CMakeFiles/queue_project.dir
+C:/Users/20673/Desktop/rc/code/frt 8.10 homework/build/CMakeFiles/edit_cache.dir
+C:/Users/20673/Desktop/rc/code/frt 8.10 homework/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/20673/Desktop/rc/code/frt 8.10 homework/build",
+  "command": "C:\\Users\\20673\\MINGW\\x86_64-15.1.0-release-posix-seh-ucrt-rt_v12-rev0\\mingw64\\bin\\gcc.exe   -g -o CMakeFiles\\queue_project.dir\\queue\\src\\main.c.obj -c \"C:\\Users\\20673\\Desktop\\rc\\code\\frt 8.10 homework\\queue\\src\\main.c\"",
+  "file": "C:/Users/20673/Desktop/rc/code/frt 8.10 homework/queue/src/main.c",
+  "output": "CMakeFiles/queue_project.dir/queue/src/main.c.obj"
+},
+{
+  "directory": "C:/Users/20673/Desktop/rc/code/frt 8.10 homework/build",
+  "command": "C:\\Users\\20673\\MINGW\\x86_64-15.1.0-release-posix-seh-ucrt-rt_v12-rev0\\mingw64\\bin\\gcc.exe   -g -o CMakeFiles\\queue_project.dir\\queue\\src\\queue.c.obj -c \"C:\\Users\\20673\\Desktop\\rc\\code\\frt 8.10 homework\\queue\\src\\queue.c\"",
+  "file": "C:/Users/20673/Desktop/rc/code/frt 8.10 homework/queue/src/queue.c",
+  "output": "CMakeFiles/queue_project.dir/queue/src/queue.c.obj"
+}
+]

@@ -1,0 +1,31 @@
+CMakeFiles/queue_project.dir/queue/src/queue.c.obj: \
+ C:\Users\20673\Desktop\rc\code\frt\ 8.10\ homework\queue\src\queue.c \
+ C:/Users/20673/MINGW/x86_64-15.1.0-release-posix-seh-ucrt-rt_v12-rev0/mingw64/x86_64-w64-mingw32/include/stdio.h \
+ C:/Users/20673/MINGW/x86_64-15.1.0-release-posix-seh-ucrt-rt_v12-rev0/mingw64/x86_64-w64-mingw32/include/corecrt_stdio_config.h \
+ C:/Users/20673/MINGW/x86_64-15.1.0-release-posix-seh-ucrt-rt_v12-rev0/mingw64/x86_64-w64-mingw32/include/corecrt.h \
+ C:/Users/20673/MINGW/x86_64-15.1.0-release-posix-seh-ucrt-rt_v12-rev0/mingw64/x86_64-w64-mingw32/include/_mingw.h \
+ C:/Users/20673/MINGW/x86_64-15.1.0-release-posix-seh-ucrt-rt_v12-rev0/mingw64/x86_64-w64-mingw32/include/_mingw_mac.h \
+ C:/Users/20673/MINGW/x86_64-15.1.0-release-posix-seh-ucrt-rt_v12-rev0/mingw64/x86_64-w64-mingw32/include/_mingw_secapi.h \
+ C:/Users/20673/MINGW/x86_64-15.1.0-release-posix-seh-ucrt-rt_v12-rev0/mingw64/x86_64-w64-mingw32/include/vadefs.h \
+ C:/Users/20673/MINGW/x86_64-15.1.0-release-posix-seh-ucrt-rt_v12-rev0/mingw64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
+ C:/Users/20673/MINGW/x86_64-15.1.0-release-posix-seh-ucrt-rt_v12-rev0/mingw64/x86_64-w64-mingw32/include/_mingw_off_t.h \
+ C:/Users/20673/MINGW/x86_64-15.1.0-release-posix-seh-ucrt-rt_v12-rev0/mingw64/x86_64-w64-mingw32/include/swprintf.inl \
+ C:/Users/20673/MINGW/x86_64-15.1.0-release-posix-seh-ucrt-rt_v12-rev0/mingw64/x86_64-w64-mingw32/include/sec_api/stdio_s.h \
+ C:/Users/20673/MINGW/x86_64-15.1.0-release-posix-seh-ucrt-rt_v12-rev0/mingw64/x86_64-w64-mingw32/include/stdlib.h \
+ C:/Users/20673/MINGW/x86_64-15.1.0-release-posix-seh-ucrt-rt_v12-rev0/mingw64/x86_64-w64-mingw32/include/corecrt_wstdlib.h \
+ C:/Users/20673/MINGW/x86_64-15.1.0-release-posix-seh-ucrt-rt_v12-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/15.1.0/include/limits.h \
+ C:/Users/20673/MINGW/x86_64-15.1.0-release-posix-seh-ucrt-rt_v12-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/15.1.0/include/syslimits.h \
+ C:/Users/20673/MINGW/x86_64-15.1.0-release-posix-seh-ucrt-rt_v12-rev0/mingw64/x86_64-w64-mingw32/include/limits.h \
+ C:/Users/20673/MINGW/x86_64-15.1.0-release-posix-seh-ucrt-rt_v12-rev0/mingw64/x86_64-w64-mingw32/include/crtdefs.h \
+ C:/Users/20673/MINGW/x86_64-15.1.0-release-posix-seh-ucrt-rt_v12-rev0/mingw64/x86_64-w64-mingw32/include/sec_api/stdlib_s.h \
+ C:/Users/20673/MINGW/x86_64-15.1.0-release-posix-seh-ucrt-rt_v12-rev0/mingw64/x86_64-w64-mingw32/include/malloc.h \
+ C:/Users/20673/MINGW/x86_64-15.1.0-release-posix-seh-ucrt-rt_v12-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/15.1.0/include/mm_malloc.h \
+ C:/Users/20673/MINGW/x86_64-15.1.0-release-posix-seh-ucrt-rt_v12-rev0/mingw64/x86_64-w64-mingw32/include/errno.h \
+ C:/Users/20673/MINGW/x86_64-15.1.0-release-posix-seh-ucrt-rt_v12-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/15.1.0/include/stdint.h \
+ C:/Users/20673/MINGW/x86_64-15.1.0-release-posix-seh-ucrt-rt_v12-rev0/mingw64/x86_64-w64-mingw32/include/stdint.h \
+ C:/Users/20673/MINGW/x86_64-15.1.0-release-posix-seh-ucrt-rt_v12-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/15.1.0/include/stddef.h \
+ C:/Users/20673/MINGW/x86_64-15.1.0-release-posix-seh-ucrt-rt_v12-rev0/mingw64/x86_64-w64-mingw32/include/stddef.h \
+ C:/Users/20673/MINGW/x86_64-15.1.0-release-posix-seh-ucrt-rt_v12-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/15.1.0/include/stdbool.h \
+ C:/Users/20673/MINGW/x86_64-15.1.0-release-posix-seh-ucrt-rt_v12-rev0/mingw64/x86_64-w64-mingw32/include/string.h \
+ C:/Users/20673/MINGW/x86_64-15.1.0-release-posix-seh-ucrt-rt_v12-rev0/mingw64/x86_64-w64-mingw32/include/sec_api/string_s.h \
+ C:/Users/20673/Desktop/rc/code/frt\ 8.10\ homework/queue/inc/queue.h
